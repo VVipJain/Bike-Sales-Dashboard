@@ -4,8 +4,8 @@ This Bike Sales Dashboard provides an interactive and comprehensive view of bike
 
 # Features
 
-* Customer Insights: Understand customer demographics, including age, gender, and location, to tailor marketing and sales strategies.
+* Customer Insights: Understand customer demographics, including age, gender to tailor marketing and sales strategies.
   
-* Geographic Analysis: Visualize sales distribution across different regions and cities using map charts.
+* Geographic Analysis: Visualize sales distribution across different regions.
   
-* Interactive Filters: Use slicers to filter data dynamically by product type, sales region, customer segment, and time period.
+* Interactive Filters: Use slicers to filter data dynamically by sales region, customer segment.
